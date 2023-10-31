@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683415338 source:c:\users\ahadm\onedrive - universidad nacional de la matanza\escritorio\topicos\cadenamia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
